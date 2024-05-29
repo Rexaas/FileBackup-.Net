@@ -1,0 +1,9 @@
+C:\Users\Komuter\source\repos\FileBackup\FileBackup\obj\Debug\FileBackup.csproj.AssemblyReference.cache
+C:\Users\Komuter\source\repos\FileBackup\FileBackup\obj\Debug\FileBackup.ProjectInstaller.resources
+C:\Users\Komuter\source\repos\FileBackup\FileBackup\obj\Debug\FileBackup.csproj.GenerateResource.cache
+C:\Users\Komuter\source\repos\FileBackup\FileBackup\obj\Debug\FileBackup.csproj.CoreCompileInputs.cache
+C:\Users\Komuter\source\repos\FileBackup\FileBackup\bin\Debug\FileBackup.exe.config
+C:\Users\Komuter\source\repos\FileBackup\FileBackup\bin\Debug\FileBackup.exe
+C:\Users\Komuter\source\repos\FileBackup\FileBackup\bin\Debug\FileBackup.pdb
+C:\Users\Komuter\source\repos\FileBackup\FileBackup\obj\Debug\FileBackup.exe
+C:\Users\Komuter\source\repos\FileBackup\FileBackup\obj\Debug\FileBackup.pdb
